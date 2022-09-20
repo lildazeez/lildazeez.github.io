@@ -28,7 +28,7 @@ twitter_username: lildazeez
 github_username:  lildazeez
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leaf
 plugins:
   - jekyll-feed
 
